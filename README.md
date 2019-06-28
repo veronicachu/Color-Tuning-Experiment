@@ -19,6 +19,6 @@ Instructions:
 5. Enter the counted number in the input field using either the numpad
 6. Repeat the steps above until the end
 
-**There are 6 practice trials in the beginning and 100 experimental trials, separated by a "Wait for Experiment Instructions" page
+**There are 6 practice trials in the beginning and 100 experimental trials, separated by a "Wait for Experiment Instructions" page**
 
-**Colors may not be the same ones used in the experiment as apperance will vary with different monitors
+**Colors may not be the same ones used in the experiment as apperance will vary with different monitors**
