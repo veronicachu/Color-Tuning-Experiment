@@ -11,6 +11,7 @@ Experimental framework for a feature-based attention study using visual search t
 
 ### Experiment Build:
 To see program, download 'Color Tuning SSVEP' folder, and run 'Color Tuning SSVEP 1.exe'.
+
 Instructions:
 1. Hit 'spacebar' key to continue from "Wait for Experimenter Instructions"
 2. A 'T' will appear - this is the exact target color and orientation to count the number of during the visual search task
